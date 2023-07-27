@@ -59,6 +59,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\manager.cs" />
     <Compile Include="Assets\Scripts\FlyingObject.cs" />
+    <Compile Include="Assets\Scripts\Menu_UI.cs" />
     <Compile Include="Assets\Scripts\MouseLook.cs" />
     <Compile Include="Assets\Scripts\Menu.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
