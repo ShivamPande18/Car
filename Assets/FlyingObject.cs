@@ -18,7 +18,7 @@ public class FlyingObject : MonoBehaviour
     [SerializeField] private float lateralRotationSpeed = 200f;//speed of lateral rotation
     [SerializeField] private float longitudinalRotationSpeed = 100f;//speed of lateral rotation
 
-    //private stuff yep
+    //private stuff
     private Vector3 initialPosition;
     private Vector3 targetFlyingPosition;
     private bool isFloating = false;
